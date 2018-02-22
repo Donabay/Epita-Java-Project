@@ -84,11 +84,11 @@ public class Main {
 			        System.out.println("|   IDENTITY MANAGER APPLICATION          |");
 			        System.out.println("*****************************************");
 			        System.out.println("| Select Options:                         |");
-			        System.out.println("|        1. Create Identity     |");
-			        System.out.println("|        2. Update Identity     |");
-			        System.out.println("|        3. Delete Identity     |");
-			        System.out.println("|        4. List/View Database  |");
-			        System.out.println("|        5. Exit                |");
+			        System.out.println("|        1. Create Identity    			  |");
+			        System.out.println("|        2. Update Identity   			  |");
+			        System.out.println("|        3. Delete Identity   			  |");
+			        System.out.println("|        4. List/View Database 			  |");
+			        System.out.println("|        5. Exit             		      |");
 			        System.out.println("*****************************************");
 					String choice = scanner.nextLine();
 
